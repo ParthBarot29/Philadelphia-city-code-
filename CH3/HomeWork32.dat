@@ -1,0 +1,34 @@
+Inserting employee with employee number 77
+Inserting employee with employee number 99
+Inserting employee with employee number 44
+Inserting employee with employee number 55
+Inserting employee with employee number 22
+Inserting employee with employee number 88
+Inserting employee with employee number 11
+Inserting employee with employee number 0
+Inserting employee with employee number 66
+Inserting employee with employee number 33
+Before sorting 
+The array of employees is: 
+77 A B C
+99 D E F
+44 G H I
+55 J K L
+22 M N O
+88 P Q R
+11 S T U
+0 V W X
+66 Y Z AA
+33 BB CC DD
+After sorting 
+The array of employees is: 
+0 V W X
+11 S T U
+22 M N O
+33 BB CC DD
+44 G H I
+55 J K L
+66 Y Z AA
+77 A B C
+88 P Q R
+99 D E F

@@ -1,0 +1,47 @@
+Inserting employee with employee number 77
+Inserting employee with employee number 99
+Inserting employee with employee number 44
+Inserting employee with employee number 55
+Inserting employee with employee number 22
+Inserting employee with employee number 88
+Inserting employee with employee number 11
+Inserting employee with employee number 0
+Inserting employee with employee number 66
+Inserting employee with employee number 33
+The array of employees is: 
+77 A B C
+99 D E F
+44 G H I
+55 J K L
+22 M N O
+88 P Q R
+11 S T U
+0 V W X
+66 Y Z AA
+33 BB CC DD
+Trying to find item with employee number 35
+35 Not found
+Trying to find item with employee number 22
+Found 22 M N O
+at location 4
+Deleting employee number 0
+Deleting employee number 55
+Deleting employee number 99
+The array of employees is: 
+77 A B C
+44 G H I
+22 M N O
+88 P Q R
+11 S T U
+66 Y Z AA
+33 BB CC DD
+The largest value is 88 P Q R
+at location 3
+Deleting employee number 88
+The array of employees is: 
+77 A B C
+44 G H I
+22 M N O
+11 S T U
+66 Y Z AA
+33 BB CC DD
