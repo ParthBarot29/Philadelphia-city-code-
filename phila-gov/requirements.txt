@@ -1,0 +1,7 @@
+flask
+mechanize
+beautifulsoup4
+flask_script
+flask_migrate
+sqlalchemy
+flask_sqlalchemy
